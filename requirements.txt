@@ -1,0 +1,6 @@
+# make sure your venv is using Python3.9 or higher for best results
+altair
+pandas
+streamlit
+snowflake-connector-python==2.7.6
+matplotlib
